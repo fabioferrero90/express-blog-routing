@@ -1,0 +1,15 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "Exercise #34",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "author": "Fabio Ferrero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
